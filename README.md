@@ -1,7 +1,5 @@
+# AI Pipelines and Models
 
-Sure! Here’s a more properly formatted version of the README.md file with bullet points and better readability:
-
-AI Pipelines and Models
 This repository contains:
 
 AI Pipelines:
